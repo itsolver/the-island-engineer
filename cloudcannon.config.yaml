@@ -15,73 +15,13 @@ collections_config:
         remove_empty_inputs: false
         remove_extra_inputs: true
         icon: notes
-  blog:
-    output: true
-    icon: edit_calendar
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
-    add_options:
-      - name: Add A New Blog Post
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
-    schemas:
-      default:
-        path: schemas/blog.md
-        reorder_inputs: true
-        hide_extra_inputs: false
-        remove_empty_inputs: false
-        remove_extra_inputs: true
-        icon: notes
-  careers:
-    output: true
-    icon: cases
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
-    add_options:
-      - name: Add New Job Post
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
-    schemas:
-      default:
-        path: schemas/careers.md
-        reorder_inputs: true
-        hide_extra_inputs: false
-        remove_empty_inputs: false
-        remove_extra_inputs: true
-        icon: group_add
-  about:
-    output: true
-    icon: person
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
-    add_options:
-      - name: Add New Team Member
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
-    schemas:
-      default:
-        path: schemas/staff.md
-        reorder_inputs: true
-        hide_extra_inputs: false
-        remove_empty_inputs: false
-        remove_extra_inputs: true
-        icon: person_add
   services:
     output: true
     icon: construction
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
+    _editables:
+    _inputs:
+    _select_data:
+    _structures:
     add_options:
       - name: Add New Service
     disable_add: false
@@ -106,6 +46,15 @@ _inputs:
     cascade: true
   logo:
     type: image
+    options:
+      paths:
+      mime_type:
+      correct_orientation: true
+      empty_type:
+      resize_style: contain
+      width:
+      height:
+      expandable:
     comment: Set your brand logo.
     cascade: true
   footer_logo:
@@ -206,17 +155,22 @@ _inputs:
       The weight value here will set the order in which your staff will be
       displayed.
     cascade: true
-_select_data: {}
-_structures: {}
 _editables:
   text:
+    allow_custom_markup: true
+    remove_custom_markup: false
     italic: true
   block:
+    allow_custom_markup: false
+    remove_custom_markup: false
     format: p h3
     image_size_attributes: true
     redo: true
+    resize_style: contain
     undo: true
   content:
+    allow_custom_markup: false
+    remove_custom_markup: false
     blockquote: true
     bold: true
     bulletedlist: true
@@ -228,6 +182,7 @@ _editables:
     link: true
     numberedlist: true
     redo: true
+    resize_style: contain
     snippet: true
     strike: true
     subscript: true
