@@ -24,7 +24,7 @@ content_blocks:
       image_alt: Morning dew on grass
     button:
       enabled: true
-      button_url: /schedule-demo/
+      button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: media-text
@@ -96,12 +96,12 @@ content_blocks:
         button_text: View Open Positions
         open_in_new_tab: false
     cta_right:
-      heading: Schedule a Demo
+      heading: Request a Quote
       body: >-
         Experience the power of Essentia's energy analytics firsthand. Request a personalized demo and discover how our innovative solutions can help you optimize energy consumption, save costs, and promote sustainability. Get started on your journey towards a greener future today!
       button:
         enabled: true
-        button_url: /schedule-demo/
-        button_text: Schedule a Demo
+        button_url: /request-quote/
+        button_text: Request a Quote
         open_in_new_tab: false
 ---

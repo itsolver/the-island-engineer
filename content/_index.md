@@ -4,10 +4,10 @@ menu:
   main:
     weight: 1
 seo:
-  page_title: Sustainable Analytics Software
-  meta_description: Harness the power of cutting-edge analytics with Essentia. Our intuitive software deciphers complex energy patterns, enabling businesses and homeowners to reduce costs and minimize environmental impact.
+  page_title: The Island Engineer
+  meta_description: Civil and Structural Engineering for Southern Moreton Bay Islands (Russell, Macleay, Lamb & Karragarra Islands)
   featured_image: /uploads/the-island-engineer-featured-image.png
-  featured_image_alt: Essentia Logo
+  featured_image_alt: The Island Engineer logo
 content_blocks:
   - _bookshop_name: hero
     heading: Turn Energy Data into Sustainable Action
@@ -28,8 +28,8 @@ content_blocks:
       image_alt: Morning dew on grass
     button:
       enabled: true
-      button_url: /schedule-demo/
-      button_text: Schedule A Demo
+      button_url: /request-quote/
+      button_text: Request a quote
       open_in_new_tab: false
   - _bookshop_name: media-text
     heading: For Business
@@ -135,7 +135,7 @@ content_blocks:
         home or business.
       button:
         enabled: true
-        button_url: /schedule-demo/
-        button_text: Schedule a Demo
+        button_url: /request-quote/
+        button_text: Request a Quote
         open_in_new_tab: false
 ---

@@ -18,7 +18,7 @@ content_blocks:
       image_alt: Clean energy being produced by windmills in a field
     button:
       enabled: true
-      button_url: /schedule-demo/
+      button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: media-text
@@ -89,7 +89,7 @@ content_blocks:
       image_alt: Five people working on laptops at a shared desk
     button:
       enabled: true
-      button_url: /schedule-demo/
+      button_url: /request-quote/
       button_text: Schedule Demo
       open_in_new_tab: false
     background_color: white

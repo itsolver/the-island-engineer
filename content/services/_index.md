@@ -20,7 +20,7 @@ content_blocks:
       image_url: /uploads/trees-1.jpg
       image_alt: Trees with sunshine shining through branches
     button:
-      button_url: /schedule-demo/
+      button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: media-text
@@ -85,7 +85,7 @@ content_blocks:
         home or business.
       button:
         enabled: true
-        button_url: /schedule-demo/
-        button_text: Schedule a Demo
+        button_url: /request-quote/
+        button_text: Request a Quote
         open_in_new_tab: false
 ---
