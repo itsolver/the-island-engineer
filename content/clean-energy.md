@@ -6,7 +6,7 @@ menu:
 seo:
   page_title: Sustainable Analytics Software
   meta_description: Harness the power of cutting-edge analytics with Essentia. Our intuitive software deciphers complex energy patterns, enabling businesses and homeowners to reduce costs and minimize environmental impact.
-  featured_image: /uploads/essentia-featured-image.jpg
+  featured_image: /uploads/the-island-engineer-featured-image.png
   featured_image_alt: Essentia Logo
 content_blocks:
   - _bookshop_name: hero-split
