@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="max-width-none">
+    {{ partial "blog/blog-hero" . }}
+    <div class="post block">
+        <div class="wrapper-md flex flex-wrap gap-md">
+            <div class="post__body flow">
+                {{ .Content  }}
+            </div>
+            <div class="post__sidebar">
+                {{ partial "blog/share-buttons" . }}
+            </div>
+        </div>
+    </div>
+</article>
+{{ partial "post-navigation" . }}
+{{ end }}

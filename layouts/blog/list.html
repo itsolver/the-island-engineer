@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ partial "bookshop_bindings" `.Params.content_blocks` }}
+{{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+<section class="block" aria-label="Blog post list">
+  <div class="wrapper-lg">
+    {{ partial "blog/category-filter" . }}
+  </div>
+  <ul class="auto-grid wrapper-lg gap-sm">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "blog") }}
+    {{ range $paginator.Pages }}
+        {{ .Render "blog-card" }}
+    {{ end }}
+  </ul>
+  {{ partial "blog/custom-pagination.html" . }}
+</section>
+{{ end }}
