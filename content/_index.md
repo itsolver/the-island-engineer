@@ -10,13 +10,9 @@ seo:
   featured_image_alt: The Island Engineer logo
 content_blocks:
   - _bookshop_name: hero
-    heading: Turn Energy Data into Sustainable Action
+    heading: Engineering Precision for Island Developments
     body: >-
-      Harness the power of cutting-edge analytics with Essentia. Our intuitive
-      software deciphers complex energy patterns, enabling businesses and
-      homeowners to reduce costs and minimize environmental impact. Dive deep
-      into real-time insights, make informed decisions, and lead the charge
-      towards a sustainable future.
+      Ray Saunders, The Island Engineer, brings specialized engineering expertise to the Southern Moreton Bay Islands. With a focus on soil testing and structural integrity, we ensure the foundations of your project are set for long-lasting stability and compliance, delivering peace of mind in every layer of your island venture.
     image_1:
       image_url: /uploads/trees-1.jpg
       image_alt: Trees with sunshine shining through branches

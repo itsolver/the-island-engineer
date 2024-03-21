@@ -21,6 +21,9 @@
 .btn--primary,
 .btn--secondary {
   transition: $transition;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em; // Adjust as needed for spacing between icon and text
 
   &::before {
     content: "";
@@ -49,6 +52,9 @@
 
   &::before {
     background-image: linear-gradient(to right,$primary-color 0%,$secondary-color 15%,$secondary-color 85%,$primary-color 100%);
+  }
+  .phone-icon {
+    fill: currentColor; // This ensures the icon inherits the text color
   }
 }
 
