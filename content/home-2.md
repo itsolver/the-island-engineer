@@ -59,16 +59,6 @@ content_blocks:
       open_in_new_tab: false
     background_color: white
     text_column_position: left
-  - _bookshop_name: blog-feed
-    heading: Explore Our Latest Insights and Green Technology Trends
-    body: >-
-      Stay informed and inspired with our regularly updated blog. Discover the latest developments in sustainable technology, energy-saving tips, and industry trends. Our experts share valuable insights to help you make informed decisions on your journey towards a greener, more efficient future.
-    button:
-      enabled: true
-      button_url: /blog/
-      button_text: View All Posts
-      open_in_new_tab: false
-    background_color: white
   - _bookshop_name: numbers
     heading: Driving Sustainable Businesses Forward
     numbers:
@@ -98,7 +88,7 @@ content_blocks:
     cta_right:
       heading: Request a Quote
       body: >-
-        Experience the power of Essentia's energy analytics firsthand. Request a personalized demo and discover how our innovative solutions can help you optimize energy consumption, save costs, and promote sustainability. Get started on your journey towards a greener future today!
+        Dive into engineering excellence with The Island Engineer for unparalleled soil testing and engineering solutions on the Southern Moreton Bay Islands. Let Ray Saunders and his team guide your project to success with precision and professionalism.
       button:
         enabled: true
         button_url: /request-quote/

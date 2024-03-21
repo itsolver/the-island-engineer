@@ -15,6 +15,21 @@
   }
 }
 
+.contact-form__form-group {
+  &--checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: $ic-100; // Adjust as needed for spacing
+    label {
+      margin-right: $ic-200; // Adjust as needed for space between the label and checkbox
+    }
+    input[type="checkbox"] {
+      width: auto; // Ensure checkbox doesn't take full width
+      margin-right: $ic-200; // Adjust space between checkbox and label
+    }
+  }
+}
+
 .contact-form__form-group label {
   font-weight: 700;
 }

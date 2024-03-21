@@ -1,4 +1,4 @@
-console.log('%c Crafted by Insight Creative, Inc. Designed and Developed by Justin Parsons', 'background: #1d1d1d; color: white; padding: 5px 10px;')
+console.log('%c Crafted by IT Solver Designed and Developed by Justin Parsons', 'background: #1d1d1d; color: white; padding: 5px 10px;')
 
 const siteHeader = document.querySelector(".header")
 const hasSubMenu = document.querySelectorAll(".has-sub-menu")

@@ -32,19 +32,6 @@ content_blocks:
       Empower your business operations with data-driven, eco-friendly solutions. Our suite of services is tailored to promote both sustainability and profitability, ensuring a greener future without compromising on growth.
     services_feed: Business
     background_color: gray
-  - _bookshop_name: blog-feed
-    heading: Our Latest Sustainability Resources
-    body: >-
-      Dive deep into the world of sustainable energy with the latest articles,
-      trends, and breakthroughs. At Essentia, we believe in empowering our
-      community with knowledge. Stay informed, stay sustainable, and join the
-      conversation shaping our energy future.
-    button:
-      enabled: true
-      button_url: /blog/
-      button_text: View All Posts
-      open_in_new_tab: false
-    background_color: white
   - _bookshop_name: double-cta
     cta_left:
       heading: Shape the Future of Energy with Us
@@ -59,12 +46,9 @@ content_blocks:
         button_text: View Open Positions
         open_in_new_tab: false
     cta_right:
-      heading: Experience the Power of Essentia
+      heading: Strengthen Your Foundations with The Island Engineer
       body: >-
-        Discover firsthand how Essentia can transform your energy consumption
-        patterns and drive sustainability. Schedule a demo today and let us
-        guide you through the features, benefits, and potential savings for your
-        home or business.
+        Dive into engineering excellence with The Island Engineer for unparalleled soil testing and engineering solutions on the Southern Moreton Bay Islands. Let Ray Saunders and his team guide your project to success with precision and professionalism.
       button:
         enabled: true
         button_url: /request-quote/

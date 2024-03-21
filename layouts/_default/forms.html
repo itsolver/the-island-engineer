@@ -3,10 +3,10 @@
 {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
 <section class="block">
     <div class="wrapper-sm">
-      {{ if eq .Title "Schedule Demo" }}
+      {{ if eq .Title "Request a Quote" }}
         {{ partial "forms/request-quote-form" . }}
       {{ else }}
-        {{ partial "forms/application-form" . }}
+        {{ partial "forms/contact-form" . }}
       {{ end }}
     </div>
 </section>

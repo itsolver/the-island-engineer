@@ -1,6 +1,6 @@
 ---
 title: Apply Now
-layout: demo-forms
+layout: forms
 seo:
   page_title:
   meta_description:

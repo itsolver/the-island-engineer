@@ -126,12 +126,9 @@ content_blocks:
         button_text: View Open Positions
         open_in_new_tab: false
     cta_right:
-      heading: Experience the Power of Essentia
+      heading: Strengthen Your Foundations with The Island Engineer
       body: >-
-        Discover firsthand how Essentia can transform your energy consumption
-        patterns and drive sustainability. Schedule a demo today and let us
-        guide you through the features, benefits, and potential savings for your
-        home or business.
+        Dive into engineering excellence with The Island Engineer for unparalleled soil testing and engineering solutions on the Southern Moreton Bay Islands. Let Ray Saunders and his team guide your project to success with precision and professionalism.
       button:
         enabled: true
         button_url: /request-quote/
