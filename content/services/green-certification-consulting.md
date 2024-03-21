@@ -2,7 +2,7 @@
 title: Green Certification Consulting
 menu:
   main:
-    parent: For Business
+    parent: Services
 seo:
   page_title:
   meta_description:

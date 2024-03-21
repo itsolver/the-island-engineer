@@ -2,7 +2,10 @@
 title: Corporate Energy Audits
 menu:
   main:
-    parent: For Business
+    parent: Services
+  footer:
+    parent: Services
+    weight: 2
 seo:
   page_title:
   meta_description:

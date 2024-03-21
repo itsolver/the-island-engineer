@@ -1,33 +1,33 @@
 ---
-title: Operational Energy Optimization
+title: Customizable Energy Dashboard
 menu:
   main:
-    parent: For Business
+    parent: Services
 seo:
   page_title:
   meta_description:
-  featured_image: /uploads/energy-optimization.jpg
+  featured_image: /uploads/energy-dashboard-4.jpg
   featured_image_alt:
 service_type: business
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: Operational Energy Optimization
+    heading: Customizable Energy Dashboard
     body: >-
-      Maximize efficiency without compromising sustainability with our Operational Energy Optimization. Transform how your business consumes energy, making every watt count.
+      Discover the power of real-time energy monitoring with our Customizable Energy Dashboard. Tailored to your unique needs, it provides actionable insights to drive sustainability and reduce costs.
     image:
-      image_url: /uploads/energy-optimization.jpg
-      image_alt: 
+      image_url: /uploads/energy-dashboard-4.jpg
+      image_alt: An example energy dashboard on a screen
     button:
       button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: media-text
-    heading: Elevate Efficiency, Elevate Sustainability
+    heading: Revolutionizing Energy Management
     body: >-
-      In the ever-evolving landscape of business, energy usage can either be a cost or an opportunity. Our Operational Energy Optimization service turns it into the latter. By analyzing your operations through a fine-tuned lens, we identify areas of improvement, streamline processes, and integrate cutting-edge energy-saving solutions. The result? Operations that are not only leaner and more profitable but also environmentally considerate. Partner with us and unlock the dual benefits of operational efficiency and commendable sustainability.
+      Introducing our Customizable Energy Dashboard - a state-of-the-art platform designed for those who seek a comprehensive understanding of their energy consumption patterns. By harnessing the power of advanced analytics, our dashboard empowers users to make informed decisions, pinpoint inefficiencies, and craft strategic energy-saving plans. Whether you're managing a sprawling corporate facility or a cozy home, our tool provides clarity and control over your energy usage, all in a user-friendly interface.
     image:
-      image_url: /uploads/green-consulting-2.jpg
-      image_alt: Trees with sunshine shining through branches
+      image_url: /uploads/energy-dashboard-3.jpg
+      image_alt: An example energy dashboard on a screen
     decorative_image: 
       enabled: true
     button:

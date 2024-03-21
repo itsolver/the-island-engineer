@@ -2,67 +2,31 @@
 title: Services
 menu:
   main:
-    weight: 2
-  footer_secondary:
-    weight: 2
+   weight: 2
+  footer:
 seo:
-  page_title: Sustainable Analytics for Businesses and Homeowners
+  page_title: Sustainable Analytics for Business
   meta_description:
   featured_image:
   featured_image_alt:
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: >-
-      Our Services
+    heading: For Southern Moreton Bay Islands
     body: >-
-      Dive into a suite of solutions designed to optimize energy efficiency and promote sustainability. At Essentia, we combine advanced technology with expert insights to tailor our offerings, ensuring both businesses and homeowners thrive in an eco-friendly future.
+      Discover tailored engineering solutions that resonate with the unique needs of the Southern Moreton Bay Islands. Experience dedicated service and local expertise that ensure your projects thrive in our vibrant island community.
     image:
-      image_url: /uploads/trees-1.jpg
+      image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
     button:
       button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
-  - _bookshop_name: media-text
-    heading: For Business
+  - _bookshop_name: services-feed
+    heading: Engineering services
     body: >-
-      In today's competitive landscape, sustainable analytics provides
-      businesses a strategic edge. With Essentia, companies can uncover hidden
-      inefficiencies, adapt to evolving energy trends, and significantly reduce
-      operational costs. Transform your energy data into tangible savings and
-      sustainable solutions.
-    image:
-      image_url: /uploads/business-1.jpg
-      image_alt: Trees with sunshine shining through branches
-    decorative_image: 
-      enabled: true
-    button:
-      enabled: true
-      button_url: /services/business/
-      button_text: sustainability for business
-      open_in_new_tab: false
-    background_color: black
-    text_column_position: right
-  - _bookshop_name: media-text
-    heading: For Homeowners
-    body: >-
-      Every household has the potential to be more energy-efficient and
-      environmentally conscious. With Essentia's insights, homeowners gain a
-      clear understanding of their energy usage, empowering them to make smarter
-      choices, reduce monthly bills, and contribute to a greener planet.
-      Discover the harmony of savings and sustainability right at home.
-    image:
-      image_url: /uploads/homeowners-2.jpg
-      image_alt: Trees with sunshine shining through branches
-    decorative_image: 
-      enabled: true
-    button:
-      enabled: true
-      button_url: /services/homeowners/
-      button_text: sustainability for homeowners
-      open_in_new_tab: false
-    background_color: white
-    text_column_position: left
+      Empower your business operations with data-driven, eco-friendly solutions. Our suite of services is tailored to promote both sustainability and profitability, ensuring a greener future without compromising on growth.
+    services_feed: Business
+    background_color: gray
   - _bookshop_name: double-cta
     cta_left:
       heading: Shape the Future of Energy with Us
