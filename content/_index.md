@@ -73,7 +73,7 @@ content_blocks:
     text_column_position: left
   - _bookshop_name: google-reviews
     background_color: black
-    placeid: ChIJz4otlBBlkWsRPyZqX2KnMfg
+    placeid: ChIJWdRrh85vkWsRDSHrzBMymcs
     googlemaps_api_key: AIzaSyBTkzj49ffKySL504ZJ-YOqtcVaTmPFi58
   - _bookshop_name: numbers
     heading: Driving Sustainable Businesses Forward
