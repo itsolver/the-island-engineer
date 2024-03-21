@@ -40,8 +40,7 @@
         {{ end }}
         <li class="header__nav-list-item">
           <a class="btn btn--primary" href="tel:{{ .Site.Data.site_settings.phone }}" aria-label="Call">
-            {{ partialCached "svg-icons/phone.svg" . }}
-             {{ .Site.Data.site_settings.phone }}</a>
+            <span class="white-icon">📞</span>{{ .Site.Data.site_settings.phone }}</a>
         </li>
       </ul>
     </nav>
