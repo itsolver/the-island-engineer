@@ -1,0 +1,58 @@
+.review-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 4px;
+    background: none;
+  }
+  .review-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-photo {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 1em;
+  }
+  
+  .review-author-time {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .review-author {
+    font-weight: 600;
+    margin: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .review-stars-time {
+    display: flex;
+    align-items: center;
+  }
+  
+  .review-text {
+    text-align: left;
+    margin-top: 0.5em;
+  }
+  
+  .stars {
+    display: flex;
+    align-items: center;
+    margin-right: 0.5em;
+  }
+  
+  .stars span {
+    color: #ffc633;
+  }
+  
+  .time-description {
+    font-size: 0.85em;
+    color: #777;
+  }

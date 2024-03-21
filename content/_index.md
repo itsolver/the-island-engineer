@@ -71,15 +71,10 @@ content_blocks:
       open_in_new_tab: false
     background_color: white
     text_column_position: left
-  - _bookshop_name: testimonial
-    body: >-
-      "At first, I was skeptical about how much Essentia's real-time monitoring could benefit us. But within months, it became clear. We became empowered to make eco-friendly choices, reducing both our bills and our carbon footprint. Every homeowner should give it a try!"
-    image:
-      image_url: /uploads/carl-1.jpg
-      image_alt: Headshot of Carl
-    name: "Carl R."
-    title: "Homeowner"
+  - _bookshop_name: google-reviews
     background_color: black
+    placeid: ChIJz4otlBBlkWsRPyZqX2KnMfg
+    googlemaps_api_key: AIzaSyBTkzj49ffKySL504ZJ-YOqtcVaTmPFi58
   - _bookshop_name: numbers
     heading: Driving Sustainable Businesses Forward
     numbers:
