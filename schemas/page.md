@@ -1,0 +1,12 @@
+---
+title:
+menu:
+  main:
+    weight:
+seo:
+  page_title:
+  meta_description: 
+  featured_image: 
+  featured_image_alt: 
+content_blocks:
+---
