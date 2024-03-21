@@ -1,9 +1,9 @@
 ---
+_schema: default
 title: Services
 menu:
   main:
-   weight: 2
-  footer:
+    weight: 2
 seo:
   page_title: Sustainable Analytics for Business
   meta_description:
@@ -13,18 +13,24 @@ content_blocks:
   - _bookshop_name: hero-two-column
     heading: For Southern Moreton Bay Islands
     body: >-
-      Discover tailored engineering solutions that resonate with the unique needs of the Southern Moreton Bay Islands. Experience dedicated service and local expertise that ensure your projects thrive in our vibrant island community.
+      Discover tailored engineering solutions that resonate with the unique
+      needs of the Southern Moreton Bay Islands. Experience dedicated service
+      and local expertise that ensure your projects thrive in our vibrant island
+      community.
     image:
       image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
     button:
+      enabled: true
       button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: services-feed
     heading: Engineering services
     body: >-
-      Empower your business operations with data-driven, eco-friendly solutions. Our suite of services is tailored to promote both sustainability and profitability, ensuring a greener future without compromising on growth.
+      Empower your business operations with data-driven, eco-friendly solutions.
+      Our suite of services is tailored to promote both sustainability and
+      profitability, ensuring a greener future without compromising on growth.
     services_feed: Business
     background_color: gray
   - _bookshop_name: double-cta
@@ -43,7 +49,10 @@ content_blocks:
     cta_right:
       heading: Strengthen Your Foundations with The Island Engineer
       body: >-
-        Dive into engineering excellence with The Island Engineer for unparalleled soil testing and engineering solutions on the Southern Moreton Bay Islands. Let Ray Saunders and his team guide your project to success with precision and professionalism.
+        Dive into engineering excellence with The Island Engineer for
+        unparalleled soil testing and engineering solutions on the Southern
+        Moreton Bay Islands. Let Ray Saunders and his team guide your project to
+        success with precision and professionalism.
       button:
         enabled: true
         button_url: /request-quote/
