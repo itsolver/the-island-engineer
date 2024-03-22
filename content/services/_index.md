@@ -35,16 +35,15 @@ content_blocks:
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: Shape the Future of Energy with Us
+      heading: Speak to an expert
       body: >-
-        At Essentia, we believe in the power of innovation and collaboration.
-        Join a team of forward-thinkers, driven by the mission to revolutionize
-        energy consumption and sustainability. If you're passionate about making
-        a difference, we want you on board.
+        Need a quick consultation or have a pressing question? Ray is ready to
+        take your call and provide expert engineering insights for your project.
+        Connect with a seasoned professional today.
       button:
         enabled: true
-        button_url: /careers/
-        button_text: View Open Positions
+        button_url: tel:0409586794
+        button_text: Call 0409 586 794
         open_in_new_tab: false
     cta_right:
       heading: Strengthen Your Foundations with The Island Engineer
