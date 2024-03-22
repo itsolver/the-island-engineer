@@ -1,69 +1,107 @@
 ---
-title: Corporate Energy Audits
+_schema: default
+title: Engineering Service 1
 menu:
   main:
     parent: Services
-  footer:
-    parent: Services
-    weight: 2
 seo:
   page_title:
   meta_description:
   featured_image: /uploads/corporate-energy-audits-1.jpg
   featured_image_alt:
-service_type: business
 content_blocks:
   - _bookshop_name: hero-two-column
     heading: Corporate Energy Audits
     body: >-
-      In today's eco-conscious business landscape, staying ahead means embracing sustainable practices. Our Corporate Energy Audit not only aids in environmental stewardship but also drives tangible financial savings.
+      In today's eco-conscious business landscape, staying ahead means embracing
+      sustainable practices. Our Corporate Energy Audit not only aids in
+      environmental stewardship but also drives tangible financial savings.
     image:
       image_url: /uploads/corporate-energy-audits-1.jpg
-      image_alt: 
+      image_alt:
     button:
+      enabled: true
       button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: media-text
     heading: Comprehensive Audit Process
     body: >-
-      Corporate Energy Audits are an essential first step in identifying inefficiencies and opportunities within your business operations. Our comprehensive audit process dives deep into your company's energy consumption patterns, highlighting areas of wastage and proposing actionable solutions. By utilizing state-of-the-art diagnostic tools and our team's vast expertise, we provide detailed insights into how your business can optimize energy use, reduce costs, and lower its carbon footprint.
+      Corporate Energy Audits are an essential first step in identifying
+      inefficiencies and opportunities within your business operations. Our
+      comprehensive audit process dives deep into your company's energy
+      consumption patterns, highlighting areas of wastage and proposing
+      actionable solutions. By utilizing state-of-the-art diagnostic tools and
+      our team's vast expertise, we provide detailed insights into how your
+      business can optimize energy use, reduce costs, and lower its carbon
+      footprint.
     image:
       image_url: /uploads/energy-dashboard.jpg
       image_alt: Trees with sunshine shining through branches
-    decorative_image: 
-      enabled: true
     button:
+      enabled: true
       button_url:
       button_text:
       open_in_new_tab: false
     background_color: gray
+    decorative_image:
+      enabled: true
     text_column_position: right
   - _bookshop_name: testimonials-slider
     heading: Words From Our Clients
-    body: "Discover the experiences of those who've partnered with us. Here's what our valued clients have to say about our sustainable solutions."
-    testimonials: 
-      - body: "Since implementing Essentia into our operations, we've seen a staggering 30% reduction in our energy costs. Not only does this boost our bottom line, but it also positions our boutique as an eco-conscious leader in the community. The peace of mind and economic benefits are truly invaluable."
+    body: >-
+      Discover the experiences of those who've partnered with us. Here's what
+      our valued clients have to say about our sustainable solutions.
+    testimonials:
+      - body: >-
+          Since implementing Essentia into our operations, we've seen a
+          staggering 30% reduction in our energy costs. Not only does this boost
+          our bottom line, but it also positions our boutique as an
+          eco-conscious leader in the community. The peace of mind and economic
+          benefits are truly invaluable.
         image: /uploads/jenna-1.jpg
         name: Jenna M.
         title: Boutique Store Owner
-      - body: "At first, I was skeptical about how much Essentia's real-time monitoring could benefit us. But within months, it became clear. We became empowered to make eco-friendly choices, reducing both our bills and our carbon footprint. Every homeowner should give it a try!"
+      - body: >-
+          At first, I was skeptical about how much Essentia's real-time
+          monitoring could benefit us. But within months, it became clear. We
+          became empowered to make eco-friendly choices, reducing both our bills
+          and our carbon footprint. Every homeowner should give it a try!
         image: /uploads/carl-1.jpg
         name: Carl R.
         title: Homeowner
-      - body: "Our company was on the brink of a major shift towards sustainable practices. The journey seemed daunting, but then we found Essentia. With their user-friendly analytics and knowledgeable support, we transformed our operations with ease and confidence."
+      - body: >-
+          Our company was on the brink of a major shift towards sustainable
+          practices. The journey seemed daunting, but then we found Essentia.
+          With their user-friendly analytics and knowledgeable support, we
+          transformed our operations with ease and confidence.
         image: /uploads/amelia-1.jpg
         name: Amelia T.
         title: CEO of GreenLeaf Industries
-      - body: "Adopting Essentia's platform was one of the best decisions for our apartment complex. Not only did it highlight opportunities for energy savings, but it also strengthened our reputation as an eco-friendly residence. Our tenants appreciate our commitment, and so does the environment."
+      - body: >-
+          Adopting Essentia's platform was one of the best decisions for our
+          apartment complex. Not only did it highlight opportunities for energy
+          savings, but it also strengthened our reputation as an eco-friendly
+          residence. Our tenants appreciate our commitment, and so does the
+          environment.
         image: /uploads/leonard-1.jpg
         name: Leonard S.
         title: Apartment Complex Manager
-      - body: "When I first heard of Essentia, I was intrigued by its promise. Now, having used it for nearly a year, it's exceeded all my expectations. The platform is both intuitive and deeply insightful, and it's become my go-to recommendation for friends and family looking to embrace a sustainable lifestyle."
+      - body: >-
+          When I first heard of Essentia, I was intrigued by its promise. Now,
+          having used it for nearly a year, it's exceeded all my expectations.
+          The platform is both intuitive and deeply insightful, and it's become
+          my go-to recommendation for friends and family looking to embrace a
+          sustainable lifestyle.
         image: /uploads/sarah-1.jpg
         name: Sarah N.
         title: Sustainable Living Enthusiast
-      - body: "In the tech industry, efficiency is everything. Thanks to Essentia, we've applied that same ethos to our energy consumption. Our carbon footprint has decreased significantly, our operational costs have plummeted, and our team feels proud of the conscious decisions we make every day."
+      - body: >-
+          In the tech industry, efficiency is everything. Thanks to Essentia,
+          we've applied that same ethos to our energy consumption. Our carbon
+          footprint has decreased significantly, our operational costs have
+          plummeted, and our team feels proud of the conscious decisions we make
+          every day.
         image: /uploads/miguel-1.jpg
         name: Miguel V.
         title: Operations Manager at TechFlow Corp.
@@ -104,7 +142,10 @@ content_blocks:
     cta_right:
       heading: Strengthen Your Foundations with The Island Engineer
       body: >-
-        Dive into engineering excellence with The Island Engineer for unparalleled soil testing and engineering solutions on the Southern Moreton Bay Islands. Let Ray Saunders and his team guide your project to success with precision and professionalism.
+        Dive into engineering excellence with The Island Engineer for
+        unparalleled soil testing and engineering solutions on the Southern
+        Moreton Bay Islands. Let Ray Saunders and his team guide your project to
+        success with precision and professionalism.
       button:
         enabled: true
         button_url: /request-quote/
