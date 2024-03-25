@@ -4,6 +4,8 @@ title: Engineering Service 1
 menu:
   main:
     parent: Services
+  footer:
+    parent: Services
 seo:
   page_title:
   meta_description:
