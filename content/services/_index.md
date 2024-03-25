@@ -5,7 +5,7 @@ menu:
   main:
     weight: 2
 seo:
-  page_title: Sustainable Analytics for Business
+  page_title: Engineering Services
   meta_description:
   featured_image:
   featured_image_alt:
@@ -31,7 +31,7 @@ content_blocks:
       Empower your business operations with data-driven, eco-friendly solutions.
       Our suite of services is tailored to promote both sustainability and
       profitability, ensuring a greener future without compromising on growth.
-    services_feed: Business
+    services_feed: Engineering
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:

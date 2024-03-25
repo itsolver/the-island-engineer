@@ -27,14 +27,10 @@
         <p class="margin-inline-auto">{{ .body | markdownify }}</p>
         <div class="block-md">
             <ul class="grid-columns-4 gap-sm max-width-none no-margin no-padding">
-                {{ if eq .services_feed "Business" }}
-                    {{ range where site.RegularPages "Params.service_type" "business" }}
+                {{ if eq .services_feed "Engineering" }}
+                    {{ range where site.RegularPages "Params.service_type" "Engineering" }}
                         {{ .Render "image-card" }}
-                    {{ end }}
-                {{ else if eq .services_feed "Homeowners" }}
-                    {{ range where site.RegularPages "Params.service_type" "homeowners" }}
-                        {{ .Render "image-card" }}
-                    {{ end }}
+                {{ end }}
                 {{ end }}
             </ul>
         </div>

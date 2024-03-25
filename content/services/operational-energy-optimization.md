@@ -9,7 +9,7 @@ seo:
   meta_description:
   featured_image: /uploads/energy-optimization.jpg
   featured_image_alt:
-service_type: business
+service_type: Engineering
 content_blocks:
   - _bookshop_name: hero-two-column
     heading: Operational Energy Optimization
