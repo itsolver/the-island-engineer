@@ -3,6 +3,7 @@ title: Customizable Energy Dashboard
 menu:
   main:
     parent: Services
+  footer:
 seo:
   page_title:
   meta_description:

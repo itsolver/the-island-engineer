@@ -1,16 +1,15 @@
 ---
-_schema: default
-title: Engineering Service 1
+title: Engineering
 menu:
   main:
     parent: Services
   footer:
-    parent: Services
 seo:
   page_title:
   meta_description:
   featured_image: /uploads/corporate-energy-audits-1.jpg
   featured_image_alt:
+service_type: business
 content_blocks:
   - _bookshop_name: hero-two-column
     heading: Corporate Energy Audits

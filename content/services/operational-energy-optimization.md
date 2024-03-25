@@ -3,6 +3,7 @@ title: Operational Energy Optimization
 menu:
   main:
     parent: Services
+  footer:
 seo:
   page_title:
   meta_description:

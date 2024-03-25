@@ -2,7 +2,7 @@
 title:
 menu:
   main:
-    parent: Services
+    weight:
 seo:
   page_title:
   meta_description: 
