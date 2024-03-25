@@ -35,47 +35,26 @@ content_blocks:
       open_in_new_tab: false
       enabled: true
   - _bookshop_name: media-text
-    heading: For Business
+    heading: Engineering Services
     body: >-
-      In today's competitive landscape, sustainable analytics provides
-      businesses a strategic edge. With Essentia, companies can uncover hidden
-      inefficiencies, adapt to evolving energy trends, and significantly reduce
-      operational costs. Transform your energy data into tangible savings and
-      sustainable solutions.
+      Discover tailored engineering solutions that resonate with the unique
+      needs of the Southern Moreton Bay Islands. Experience dedicated service
+      and local expertise that ensure your projects thrive in our vibrant island
+      community.
     image:
       image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
     button:
       enabled: true
-      button_url: /services/business/
-      button_text: sustainability for business
+      button_url: /services/
+      button_text: Engineering services
       open_in_new_tab: false
     background_color: black
     decorative_image:
       enabled: true
     text_column_position: right
-  - _bookshop_name: media-text
-    heading: For Homeowners
-    body: >-
-      Every household has the potential to be more energy-efficient and
-      environmentally conscious. With Essentia's insights, homeowners gain a
-      clear understanding of their energy usage, empowering them to make smarter
-      choices, reduce monthly bills, and contribute to a greener planet.
-      Discover the harmony of savings and sustainability right at home.
-    image:
-      image_url: /uploads/homeowners-2.jpg
-      image_alt: Trees with sunshine shining through branches
-    button:
-      enabled: true
-      button_url: /services/homeowners/
-      button_text: sustainability for homeowners
-      open_in_new_tab: false
-    background_color: white
-    decorative_image:
-      enabled: true
-    text_column_position: left
   - _bookshop_name: google-reviews
-    background_color: black
+    background_color: white
     placeid: ChIJWdRrh85vkWsRDSHrzBMymcs
     googlemaps_api_key: AIzaSyBTkzj49ffKySL504ZJ-YOqtcVaTmPFi58
   - _bookshop_name: numbers
