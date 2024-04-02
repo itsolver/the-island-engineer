@@ -5,7 +5,7 @@ menu:
   main:
     weight: 2
 seo:
-  page_title: Engineering Services
+  page_title: Island Consulting Services
   meta_description:
   featured_image:
   featured_image_alt:
@@ -26,7 +26,7 @@ content_blocks:
       button_text: Schedule A Demo
       open_in_new_tab: false
   - _bookshop_name: services-feed
-    heading: Engineering services
+    heading: Consulting services
     body: >-
       Empower your business operations with data-driven, eco-friendly solutions.
       Our suite of services is tailored to promote both sustainability and
@@ -35,15 +35,13 @@ content_blocks:
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: Speak to an expert
+      heading: Order Services
       body: >-
-        Need a quick consultation or have a pressing question? Ray is ready to
-        take your call and provide expert engineering insights for your project.
-        Connect with a seasoned professional today.
+        Ready to elevate your project with top-tier engineering expertise? Dive into a seamless consultation process with Ray and the team at The Island Engineer. Order our consulting services today and unlock unparalleled solutions for your project's success.
       button:
         enabled: true
-        button_url: tel:0409586794
-        button_text: Call 0409 586 794
+        button_url: /services/
+        button_text: Order now
         open_in_new_tab: false
     cta_right:
       heading: Strengthen Your Foundations with The Island Engineer
