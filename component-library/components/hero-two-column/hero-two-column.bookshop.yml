@@ -15,9 +15,7 @@ blueprint:
     image_alt:
   button:
     enabled: true
-    button_url: 
-    button_text:
-    open_in_new_tab: false
+    buy_button_id:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

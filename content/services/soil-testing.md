@@ -1,8 +1,9 @@
 ---
-_schema: default
 title: Soil Testing
 menu:
-  main: {}
+  main:
+    parent: Services
+  footer:
 seo:
   page_title:
   meta_description:
@@ -20,8 +21,8 @@ content_blocks:
       image_alt: An example energy dashboard on a screen
     button:
       enabled: true
-      button_url: /request-quote/
-      button_text: Schedule A Demo
+      button_url: https://buy.stripe.com/test_eVadTf5wQ5PB3EA28a
+      button_text: Pay now
       open_in_new_tab: false
   - _bookshop_name: media-text
     heading: Revolutionizing Energy Management
