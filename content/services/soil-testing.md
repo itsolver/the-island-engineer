@@ -10,7 +10,7 @@ seo:
   featured_image_alt:
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: Customizable Energy Dashboard
+    heading: Soil testing
     body: >-
       Discover the power of real-time energy monitoring with our Customizable
       Energy Dashboard. Tailored to your unique needs, it provides actionable
