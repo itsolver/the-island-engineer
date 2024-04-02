@@ -13,9 +13,7 @@ content_blocks:
   - _bookshop_name: hero-two-column
     heading: Soil testing
     body: >-
-      Discover the power of real-time energy monitoring with our Customizable
-      Energy Dashboard. Tailored to your unique needs, it provides actionable
-      insights to drive sustainability and reduce costs.
+      Island Consulting is at the forefront of soil testing and site classification, providing the foundation for successful building projects across Australia. With our expertise and a NATA accredited lab, we deliver precise foundation planning for any construction. Click the "Pay Now" button to ensure your project starts on solid ground with Island Consulting.
     image:
       image_url: /uploads/energy-dashboard-4.jpg
       image_alt: An example energy dashboard on a screen
