@@ -13,13 +13,12 @@ seo:
   featured_image_alt: The Island Engineer logo
 content_blocks:
   - _bookshop_name: hero
-    heading: Engineering Precision for Island Developments
+    heading: Consulting Engineering, Soil Testing & Geotechnical Services
     body: >-
-      Ray Saunders, The Island Engineer, brings specialized engineering
-      expertise to the Southern Moreton Bay Islands. With a focus on soil
-      testing and structural integrity, we ensure the foundations of your
-      project are set for long-lasting stability and compliance, delivering
-      peace of mind in every layer of your island venture.
+      We offer comprehensive engineering services tailored for some of
+      Australia's premier building companies. Our integrated and pragmatic
+      approach ensures that our clients receive efficient, high-quality
+      solutions that are delivered on schedule and within budget.
     image_1:
       image_url: /uploads/trees-1.jpg
       image_alt: Trees with sunshine shining through branches
@@ -31,7 +30,7 @@ content_blocks:
       image_alt: Morning dew on grass
     button:
       button_url: /request-quote/
-      button_text: Request a quote
+      button_text: Get a quote
       open_in_new_tab: false
       enabled: true
   - _bookshop_name: media-text
