@@ -79,26 +79,30 @@ content_blocks:
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: Buy SMBI Foundation Design
+      heading: SMBI Foundation Design
       body: >-
-        Need a quick consultation or have a pressing question? Ray is ready to
-        take your call and provide expert engineering insights for your project.
-        Connect with a seasoned professional today.
+        As leaders in custom foundation design, we tailor every project to meet
+        the unique demands of both residential and commercial sites. Our team
+        employs a diverse array of materials and innovative techniques, ranging
+        from screw piles to traditional foundations, ensuring that every
+        solution is optimized for site-specific requirements.
       button:
         enabled: true
         button_url: https://fine-ant.cloudvent.net/services/#ZgotmplZ
         button_text: Buy SMBI Foundation Design
         open_in_new_tab: false
     cta_right:
-      heading: Strengthen Your Foundations with The Island Engineer
+      heading: SMBI Soil Testing
       body: >-
-        Dive into engineering excellence with The Island Engineer for
-        unparalleled soil testing and engineering solutions on the Southern
-        Moreton Bay Islands. Let Ray Saunders and his team guide your project to
-        success with precision and professionalism.
+        Soil testing and site classification services are essential for the
+        success of your construction project. With our NATA-accredited
+        laboratory, we conduct thorough testing and analysis of soil samples.
+        STA guarantees precise and reliable results, providing you with the
+        critical information needed to make informed decisions throughout your
+        project’s lifecycle.
       button:
         enabled: true
-        button_url: /request-quote/
-        button_text: Request a Quote
+        button_url: /buy-soil-test/
+        button_text: Buy Soil Test
         open_in_new_tab: false
 ---
