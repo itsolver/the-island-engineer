@@ -1,5 +1,5 @@
 ---
-title: Soil Testing
+title: SMBI Soil Testing
 menu:
   main:
     parent: Services
@@ -12,7 +12,7 @@ seo:
 service_type: Engineering
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: Soil testing
+    heading: SMBI Soil testing
     body: >-
       Island Consulting is at the forefront of soil testing and site classification, providing the foundation for successful building projects across Australia. With our expertise and a NATA accredited lab, we deliver precise foundation planning for any construction. Click the "Pay Now" button to ensure your project starts on solid ground with Island Consulting.
     image:
@@ -21,7 +21,7 @@ content_blocks:
     button:
       enabled: true
       button_url: https://buy.stripe.com/test_eVadTf5wQ5PB3EA28a
-      button_text: Pay now
+      button_text: Buy soil test
       open_in_new_tab: false
   - _bookshop_name: media-text
     heading: Revolutionizing Energy Management

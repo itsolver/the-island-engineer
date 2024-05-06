@@ -26,16 +26,16 @@ content_blocks:
       button_text: Get a quote
       open_in_new_tab: false
   - _bookshop_name: services-feed
-    heading: Consulting services
+    heading: All services
     body: >-
-      Empower your business operations with data-driven, eco-friendly solutions.
-      Our suite of services is tailored to promote both sustainability and
-      profitability, ensuring a greener future without compromising on growth.
+      Discover our full range of engineering services, from soil testing and
+      foundation design to structural engineering and compliance inspections.
+      Explore our services and find the right solution for your project.
     services_feed: Engineering
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: Order Services
+      heading: SMBI Foundation Design
       body: >-
         Ready to elevate your project with top-tier engineering expertise? Dive
         into a seamless consultation process with Ray and the team at The Island
@@ -43,8 +43,8 @@ content_blocks:
         solutions for your project's success.
       button:
         enabled: true
-        button_url: /services/
-        button_text: Order now
+        button_url: /services/smbi-foundation-design
+        button_text: Buy SMBI Foundation Design
         open_in_new_tab: false
     cta_right:
       heading: Strengthen Your Foundations with The Island Engineer
@@ -55,7 +55,7 @@ content_blocks:
         success with precision and professionalism.
       button:
         enabled: true
-        button_url: /request-quote/
-        button_text: Request a Quote
+        button_url: /get-a-quote/
+        button_text: Get a Quote
         open_in_new_tab: false
 ---
