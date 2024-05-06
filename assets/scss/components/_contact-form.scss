@@ -18,14 +18,36 @@
 .contact-form__form-group {
   &--checkbox {
     display: flex;
-    align-items: center;
+    flex-direction: column;
     margin-bottom: $ic-100; // Adjust as needed for spacing
+
     label {
       margin-right: $ic-200; // Adjust as needed for space between the label and checkbox
     }
+
     input[type="checkbox"] {
-      width: auto; // Ensure checkbox doesn't take full width
-      margin-right: $ic-200; // Adjust space between checkbox and label
+      width: $ic-200; // Ensure checkbox doesn't take full width
+      margin: auto;
+      margin-right: $ic-500; // Adjust space between checkbox and label
+    }
+
+    .checkbox-label-group {
+      display: flex;
+      margin-bottom: $ic--100;
+      align-items: center;
+      margin-right: auto;
+
+      label {
+        margin-right: $ic-300; // Adjust spacing between label and checkbox
+        flex: 1; // Allow label to wrap if needed
+      }
+
+      input[type="checkbox"] {
+        flex: 0 0 auto; // Prevent checkbox from stretching
+        width: $ic-200; // Set a fixed width for the checkbox
+        height: $ic-200; // Set a fixed height for the checkbox
+        margin-right: $ic-500; // Adjust space between checkbox and label
+      }
     }
   }
 }

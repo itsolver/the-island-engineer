@@ -22,7 +22,7 @@ content_blocks:
       image_alt: Trees with sunshine shining through branches
     button:
       enabled: true
-      button_url: /request-quote/
+      button_url: /get-a-quote/
       button_text: Get a quote
       open_in_new_tab: false
   - _bookshop_name: services-feed

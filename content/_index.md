@@ -13,12 +13,9 @@ seo:
   featured_image_alt: The Island Engineer logo
 content_blocks:
   - _bookshop_name: hero
-    heading: Consulting Engineering, Soil Testing & Geotechnical Services
+    heading: Specialist Residential Engineering Services for Moreton Bay Islands & South East Qld
     body: >-
-      We offer comprehensive engineering services tailored for some of
-      Australia's premier building companies. Our integrated and pragmatic
-      approach ensures that our clients receive efficient, high-quality
-      solutions that are delivered on schedule and within budget.
+      Streamline your build with practical, innovative, and client-focused solutions across soil testing, foundation design, structural engineering, building hydraulics, and compliance inspections
     image_1:
       image_url: /uploads/trees-1.jpg
       image_alt: Trees with sunshine shining through branches
@@ -29,7 +26,7 @@ content_blocks:
       image_url: /uploads/grass-1.jpg
       image_alt: Morning dew on grass
     button:
-      button_url: /request-quote/
+      button_url: /get-a-quote/
       button_text: Get a quote
       open_in_new_tab: false
       enabled: true
@@ -57,24 +54,20 @@ content_blocks:
     placeid: ChIJWdRrh85vkWsRDSHrzBMymcs
     googlemaps_api_key: AIzaSyBTkzj49ffKySL504ZJ-YOqtcVaTmPFi58
   - _bookshop_name: numbers
-    heading: Driving Sustainable Businesses Forward
+    heading: Our Numbers
     numbers:
-      - heading: 10+ Years in Business
+      - heading: 900 SMBI Engineering Projects
         body: >-
-          Empowering businesses and homeowners with sustainable energy solutions
-          since 2013.
-      - heading: 150,000+ Customers
+          A growing portfolio of engineering projects across the Southern Moreton
+          Bay Islands.
+      - heading: Established on SMBI in 2019
         body: >-
-          A growing community of eco-conscious individuals and businesses
-          trusting Essentia.
-      - heading: 27% Energy Saved
-        body: >-
-          Helping our users significantly reduce their carbon footprint and
-          energy bills.
-      - heading: $4.2 Million Saved
-        body: >-
-          Translated energy savings into substantial financial benefits for our
+          A local engineering firm dedicated to the unique needs of our island
           community.
+      - heading: 1000 SMBI Soil Test Reports
+        body: >-
+          Providing critical information for construction projects across the
+          Southern Moreton Bay Islands.
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:

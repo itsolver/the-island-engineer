@@ -1,0 +1,89 @@
+<form name="request_quote" enctype="multipart/form-data" method="post" action="/thank-you/">
+    <div class="visually-hidden">
+        <label for="_subject">New form submission from The Island Engineer quote request</label>
+        <input aria-label="subject" id="_subject" name="_subject" value="New form submission from The Island Engineer quote request"/>
+    </div>
+    <h2>Get a Quote</h2>
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
+                <label for="first_name">First Name *</label>
+                <input name="First Name" id="first_name" type="text" class="contact-form__form-control" required>
+            </div>
+            <div class="contact-form__form-group">
+                <label for="last_name">Last Name *</label>
+                <input name="Last Name" id="last_name" type="text" class="contact-form__form-control" required>
+            </div>
+        </div>
+    </div>
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
+                <label for="email">Email *</label>
+                <input name="email" id="email" type="email" class="contact-form__form-control" required>
+            </div>
+            <div class="contact-form__form-group">
+                <label for="phone">Phone *</label>
+                <input name="Phone" id="phone" type="tel" class="contact-form__form-control" required>
+            </div>
+        </div>
+    </div>  
+    <div class="contact-form__form-group contact-form__form-group--checkbox">
+    <div class="checkbox-label-group">
+        <label for="services">Select Services:</label><br>
+    </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_foundation_design" name="services" value="SMBI Foundation Design">
+        <label for="smbi_foundation_design">SMBI Foundation Design</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_soil_testing" name="services" value="SMBI Soil Testing">
+        <label for="smbi_soil_testing">SMBI Soil Testing</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_structural_design" name="services" value="Moreton Bay Islands:  Residential Structural Engineering Design">
+        <label for="smbi_structural_design">Moreton Bay Islands:  Residential Structural Engineering Design</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_construction_certification" name="services" value="SMBI Construction & Post Construction Engineering Certification Inspections">
+        <label for="smbi_construction_certification">SMBI Construction & Post Construction Engineering Certification Inspections</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="redland_structural_design" name="services" value="Redland City & Adjacent City Council Area:  Residential Structural Engineering Design">
+        <label for="redland_structural_design">Redland City & Adjacent City Council Area:  Residential Structural Engineering Design</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="wind_reports" name="services" value="Wind Reports: Wind Classification Reports to Australian Standards">
+        <label for="wind_reports">Wind Reports: Wind Classification Reports to Australian Standards</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_landslide_assessment" name="services" value="SMBI Redland City Planning Scheme: Landslide Overlay - Slope Stability Risk Assessments">
+        <label for="smbi_landslide_assessment">SMBI Redland City Planning Scheme: Landslide Overlay - Slope Stability Risk Assessments</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_coastal_assessment" name="services" value="SMBI Redland City Planning Scheme: Coastal Protection Overlay (Erosion Prone Area) Risk Mitigation Reports">
+        <label for="smbi_coastal_assessment">SMBI Redland City Planning Scheme: Coastal Protection Overlay (Erosion Prone Area) Risk Mitigation Reports</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="smbi_flood_assessment" name="services" value="SMBI Redland City Planning Scheme: Flood & Storm Tide (Drainage Constrained Land) Risk Mitigation Reports">
+        <label for="smbi_flood_assessment">SMBI Redland City Planning Scheme: Flood & Storm Tide (Drainage Constrained Land) Risk Mitigation Reports</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="logan_cmp" name="services" value="Logan City Council Construction Management Plans (CMP)">
+        <label for="logan_cmp">Logan City Council Construction Management Plans (CMP)</label>
+      </div>
+      <div class="checkbox-label-group">
+        <input type="checkbox" id="brisbane_cmp" name="services" value="Brisbane City Council Construction Management Plans (CMP)">
+        <label for="brisbane_cmp">Brisbane City Council Construction Management Plans (CMP)</label>
+      </div>
+    </div>
+    <div class="contact-form__form-group">
+        <label for="message">Message</label>
+        <textarea name="Message" id="message" class="contact-form__form-control" rows="4" required></textarea>
+    </div>
+    <input type="hidden" name="inbox_key" value="inbox-key">
+    <input type="text" name="_gotcha" class="visually-hidden" aria-label="gotcha">
+    <div class="h-captcha" data-sitekey=""></div>
+    <br>
+    <button type="submit" class="contact-form__btn btn btn--primary">Get a Quote</button>
+</form>

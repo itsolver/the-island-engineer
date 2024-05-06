@@ -218,8 +218,8 @@
 
 .header__nav-list-link {
   position: relative;
-  font-size: 1.2rem;
-  padding: $ic--200 0;
+  font-size: 1.1rem;
+  padding: $ic--100 0;
   transition: .3s ease-out;
   color: $black;
 
@@ -331,14 +331,17 @@
   }
 }
 
-.header__nav-list .header__nav-list-item:last-child,
-.header__nav-list .header__nav-list-item:nth-last-child(2) {
+.header__nav-list .header__nav-list-item:last-child {
   margin-left: auto;
-  /* This will push the buttons to the right */
+  display: flex;
+  gap: $ic-300;
 }
 
-.header__nav-list .header__nav-list-item:last-child .btn,
-.header__nav-list .header__nav-list-item:nth-last-child(2) .btn {
-  margin-left: $ic-300;
-  /* Add spacing between the buttons */
+.header__nav-list-item .btn {
+  margin-left: 0;
+  padding: $ic-100 $ic-100;
+}
+
+.header__nav-list .header__nav-list-item:last-child {
+  margin-left: auto;
 }

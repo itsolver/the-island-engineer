@@ -3,8 +3,8 @@
 {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
 <section class="block">
     <div class="wrapper-sm">
-      {{ if eq .Title "Request a Quote" }}
-        {{ partial "forms/request-quote-form" . }}
+      {{ if eq .Title "Get a Quote" }}
+        {{ partial "forms/quote-form" . }}
       {{ else }}
       <script src="https://www.cognitoforms.com/f/seamless.js" data-key="2JeVuNyDLEO0pk9QDlV9_A" data-form="{{.Params.cognito_forms_number}}"></script>
       {{ end }}
