@@ -11,19 +11,19 @@ seo:
   featured_image_alt:
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: For Southern Moreton Bay Islands
+    heading: CONSULTING ENGINEERING, SOIL TESTING & GEOTECHNICAL SERVICES
     body: >-
-      Discover tailored engineering solutions that resonate with the unique
-      needs of the Southern Moreton Bay Islands. Experience dedicated service
-      and local expertise that ensure your projects thrive in our vibrant island
-      community.
+      We provide end-to-end engineering services for some of Australia's largest
+      building companies. Our approach is integrated and practical so that
+      clients get efficient, high-performing solutions delivered on time and on
+      budget.
     image:
       image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
     button:
       enabled: true
       button_url: /request-quote/
-      button_text: Schedule A Demo
+      button_text: Get a quote
       open_in_new_tab: false
   - _bookshop_name: services-feed
     heading: Consulting services
@@ -37,7 +37,10 @@ content_blocks:
     cta_left:
       heading: Order Services
       body: >-
-        Ready to elevate your project with top-tier engineering expertise? Dive into a seamless consultation process with Ray and the team at The Island Engineer. Order our consulting services today and unlock unparalleled solutions for your project's success.
+        Ready to elevate your project with top-tier engineering expertise? Dive
+        into a seamless consultation process with Ray and the team at The Island
+        Engineer. Order our consulting services today and unlock unparalleled
+        solutions for your project's success.
       button:
         enabled: true
         button_url: /services/

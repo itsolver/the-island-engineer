@@ -79,7 +79,7 @@ content_blocks:
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: Speak to an expert
+      heading: Buy SMBI Foundation Design
       body: >-
         Need a quick consultation or have a pressing question? Ray is ready to
         take your call and provide expert engineering insights for your project.
@@ -87,7 +87,7 @@ content_blocks:
       button:
         enabled: true
         button_url: https://fine-ant.cloudvent.net/services/#ZgotmplZ
-        button_text: CALL 0409 586 794
+        button_text: Buy SMBI Foundation Design
         open_in_new_tab: false
     cta_right:
       heading: Strengthen Your Foundations with The Island Engineer
