@@ -6,7 +6,7 @@ menu:
   footer_secondary:
     weight: 1
 seo:
-  page_title: Sustainability Company in the US
+  page_title: About Island Consulting, Redland Structural, Geotechnical & Civil Engineers
   meta_description:
   featured_image: 
   featured_image_alt:
