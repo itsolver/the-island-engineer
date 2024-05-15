@@ -11,7 +11,7 @@ seo:
   featured_image_alt:
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: CONSULTING ENGINEERING, SOIL TESTING & GEOTECHNICAL SERVICES
+    heading: Consulting Engineering, Soil Testing & Geotechnical Services
     body: >-
       We provide end-to-end engineering services for some of Australia's largest
       building companies. Our approach is integrated and practical so that
@@ -37,25 +37,28 @@ content_blocks:
     cta_left:
       heading: SMBI Foundation Design
       body: >-
-        Ready to elevate your project with top-tier engineering expertise? Dive
-        into a seamless consultation process with Ray and the team at The Island
-        Engineer. Order our consulting services today and unlock unparalleled
-        solutions for your project's success.
+        As leaders in custom foundation design, we tailor every project to meet
+        the unique demands of both residential and commercial sites. Our team
+        employs a diverse array of materials and innovative techniques, ranging
+        from screw piles to traditional foundations, ensuring that every
+        solution is optimized for site-specific requirements.
       button:
         enabled: true
-        button_url: /services/smbi-foundation-design
+        button_url: https://fine-ant.cloudvent.net/services/#ZgotmplZ
         button_text: Buy SMBI Foundation Design
         open_in_new_tab: false
     cta_right:
-      heading: Strengthen Your Foundations with The Island Engineer
+      heading: SMBI Soil Testing
       body: >-
-        Dive into engineering excellence with The Island Engineer for
-        unparalleled soil testing and engineering solutions on the Southern
-        Moreton Bay Islands. Let Ray Saunders and his team guide your project to
-        success with precision and professionalism.
+        Soil testing and site classification services are essential for the
+        success of your construction project. With our NATA-accredited
+        laboratory, we conduct thorough testing and analysis of soil samples.
+        STA guarantees precise and reliable results, providing you with the
+        critical information needed to make informed decisions throughout your
+        project’s lifecycle.
       button:
         enabled: true
-        button_url: /get-a-quote/
-        button_text: Get a Quote
+        button_url: /buy-soil-test/
+        button_text: Buy Soil Test
         open_in_new_tab: false
 ---
