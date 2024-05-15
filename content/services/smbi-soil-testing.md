@@ -106,24 +106,20 @@ content_blocks:
         title: Operations Manager at TechFlow Corp.
     background_color: black
   - _bookshop_name: numbers
-    heading: Driving Sustainable Businesses Forward
+    heading: Our Numbers
     numbers:
-      - heading: 10+ Years in Business
+      - heading: 900 SMBI Engineering Projects
         body: >-
-          Empowering businesses and homeowners with sustainable energy solutions
-          since 2013.
-      - heading: 150,000+ Customers
+          A growing portfolio of engineering projects across the Southern Moreton
+          Bay Islands.
+      - heading: Established on SMBI in 2019
         body: >-
-          A growing community of eco-conscious individuals and businesses
-          trusting Essentia.
-      - heading: 27% Energy Saved
-        body: >-
-          Helping our users significantly reduce their carbon footprint and
-          energy bills.
-      - heading: $4.2 Million Saved
-        body: >-
-          Translated energy savings into substantial financial benefits for our
+          A local engineering firm dedicated to the unique needs of our island
           community.
+      - heading: 1000 SMBI Soil Test Reports
+        body: >-
+          Providing critical information for construction projects across the
+          Southern Moreton Bay Islands.
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
