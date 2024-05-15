@@ -1,5 +1,5 @@
 ---
-title: Naomi Kim
+title: Bec
 seo:
   page_title:
   meta_description: Naomi is the genius behind Essentia's cutting-edge software solutions.
