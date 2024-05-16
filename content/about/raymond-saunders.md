@@ -7,11 +7,10 @@ seo:
   featured_image_alt: Headshot of Raymond Saunders
 headshot: /uploads/raymond-saunders.jpg
 job_title: Director
-weight: 0
+weight: 1
 ---
 
-A seasoned professional with an eye for operational excellence, Aaron ensures Essentia runs smoothly and efficiently. His expertise in business strategy and keen sense of market trends has helped shape the company's trajectory. Co-founding Essentia with Sophia, Aaron's leadership has been instrumental in establishing the company's reputable position in the industry. Outside the office, Aaron is a mentor for budding entrepreneurs, sharing insights from his journey and fostering the next generation of innovators.
-
+Raymond Saunders is the owner of Island Consulting. He has over 30 years of experience in the engineering industry, working on a wide range of projects. Raymond is a Chartered Engineer and a Member of the Institution of Civil Engineers. He has a wealth of experience and expertise in the industry, which he uses to ensure Island Consulting delivers exceptional engineering solutions.
 
 
 

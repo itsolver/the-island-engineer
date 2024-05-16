@@ -23,35 +23,6 @@ content_blocks:
       button_url: /request-quote/
       button_text: Schedule A Demo
       open_in_new_tab: false
-  - _bookshop_name: media-text
-    heading: Our Service Area
-    body: >-
-      THE ISLAND ENGINEER
-      ISLAND SOIL TESTING
-      - RUSSELL ISLAND
-      - MACLEAY ISLAND  
-      - LAMB ISLAND
-      - KARRAGARRA ISLAND
-      - NTH. STRADBROKE ISLAND
-      - COOCHIEMUDLO ISLAND
-
-      REDLAND STRUCTURAL 
-      ENGINEERING DESIGN
-      - REDLAND CITY COUNCIL
-      - LOGAN CITY COUNCIL
-      - BRISBANE CITY COUNCIL
-        REGIONS 
-    image:
-      image_url: /uploads/plant-in-hands-1.jpg
-      image_alt: Small plant in hands
-    decorative_image: 
-      enabled: true
-    button:
-      button_url:
-      button_text:
-      open_in_new_tab:
-    background_color: black
-    text_column_position: right
   - _bookshop_name: columns
     heading: "Our Service Areas:"
     columns:
@@ -106,24 +77,30 @@ content_blocks:
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: Shape the Future of Energy with Us
+      heading: SMBI Foundation Design
       body: >-
-        At Essentia, we believe in the power of innovation and collaboration.
-        Join a team of forward-thinkers, driven by the mission to revolutionize
-        energy consumption and sustainability. If you're passionate about making
-        a difference, we want you on board.
+        As leaders in custom foundation design, we tailor every project to meet
+        the unique demands of both residential and commercial sites. Our team
+        employs a diverse array of materials and innovative techniques, ranging
+        from screw piles to traditional foundations, ensuring that every
+        solution is optimized for site-specific requirements.
       button:
         enabled: true
-        button_url: /careers/
-        button_text: View Open Positions
+        button_url: https://fine-ant.cloudvent.net/services/#ZgotmplZ
+        button_text: Buy SMBI Foundation Design
         open_in_new_tab: false
     cta_right:
-      heading: Strengthen Your Foundations with The Island Engineer
+      heading: SMBI Soil Testing
       body: >-
-        Dive into engineering excellence with The Island Engineer for unparalleled soil testing and engineering solutions on the Southern Moreton Bay Islands. Let Ray Saunders and his team guide your project to success with precision and professionalism.
+        Soil testing and site classification services are essential for the
+        success of your construction project. With our NATA-accredited
+        laboratory, we conduct thorough testing and analysis of soil samples.
+        STA guarantees precise and reliable results, providing you with the
+        critical information needed to make informed decisions throughout your
+        project’s lifecycle.
       button:
         enabled: true
-        button_url: /request-quote/
-        button_text: Request a Quote
+        button_url: /buy-soil-test/
+        button_text: Buy Soil Test
         open_in_new_tab: false
 ---
