@@ -20,8 +20,6 @@ table,
 body {
   font-family: $primary-font;
   color: $black;
-  scrollbar-width: $scrollbar-width;
-  scrollbar-color: $light-gray;
 }
 
 main:focus {
@@ -51,16 +49,4 @@ main:focus {
 ::-ms-selection {
   background: rgba($primary-color, 0.8);
   color: $white;
-}
-
-body::-webkit-scrollbar {
-  width: $scrollbar-width;
-}
-
-body::-webkit-scrollbar-track {
-  background: $light-gray;
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: $primary-color;
 }
