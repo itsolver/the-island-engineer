@@ -345,13 +345,3 @@
 .header__nav-list .header__nav-list-item:last-child {
   margin-left: auto;
 }
-
-.header-logo {
-  filter: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  .header-logo {
-    filter: brightness(0) invert(1);
-  }
-}

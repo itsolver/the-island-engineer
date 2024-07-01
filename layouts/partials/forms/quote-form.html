@@ -42,7 +42,7 @@
       </div>
       <div class="checkbox-label-group">
         <input type="checkbox" id="smbi_structural_design" name="services" value="Moreton Bay Islands:  Residential Structural Engineering Design">
-        <label for="smbi_structural_design">Moreton Bay Islands:  Residential Structural Engineering Design</label>
+        <label for="smbi_structural_design">Moreton Bay Islands: Residential Structural Engineering Design</label>
       </div>
       <div class="checkbox-label-group">
         <input type="checkbox" id="smbi_construction_certification" name="services" value="SMBI Construction & Post Construction Engineering Certification Inspections">
@@ -86,4 +86,16 @@
     <div class="h-captcha" data-sitekey=""></div>
     <br>
     <button type="submit" class="contact-form__btn btn btn--primary">Get a Quote</button>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const service = urlParams.get('service');
+        if (service) {
+          const checkbox = document.getElementById(service);
+          if (checkbox) {
+            checkbox.checked = true;
+          }
+        }
+      });
+    </script>
 </form>

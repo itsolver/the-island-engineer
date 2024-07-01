@@ -36,4 +36,16 @@
         border: 2px solid $primary-color;
         background-color: $black;
     }
+
+    .header-logo,
+    .footer-logo {
+        filter: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .header-logo,
+        .footer-logo {
+            filter: brightness(0) invert(1);
+        }
+    }
 }
