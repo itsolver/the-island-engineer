@@ -1,5 +1,5 @@
 ---
-title: SMBI Foundation Design
+title: Geotechnical Engineering Slope Stability
 menu:
   main:
     parent: Services
@@ -12,15 +12,15 @@ seo:
 service_type: Engineering
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: SMBI Foundation Design
+    heading: Geotechnical Engineering Slope Stability Assessment
     body: >-
-      Island Consulting is at the forefront of foundation design and site classification, providing the foundation for successful building projects across Australia. With our expertise and a NATA accredited lab, we deliver precise foundation planning for any construction. Click the "Get a Quote" button to ensure your project starts on solid ground with Island Consulting.
+      At Island Consulting, we specialize in comprehensive geotechnical engineering services, with a focus on slope stability assessments. Our expert team conducts thorough evaluations to ensure the safety and stability of your construction projects on sloped terrains. We utilize advanced techniques and state-of-the-art technology to accurately assess geological conditions, soil properties, and potential risks. Our assessments help you make informed decisions, comply with local regulations, and optimize your project's design for long-term stability and safety. Click the "Get a Quote" button to secure our professional geotechnical engineering services for your project.
     image:
       image_url: /uploads/energy-dashboard-4.jpg
-      image_alt: An example energy dashboard on a screen
+      image_alt: An example of a slope stability assessment
     button:
       enabled: true
-      button_url: /get-a-quote?service=smbi_foundation_design
+      button_url: /get-a-quote?service=smbi_landslide_assessment
       button_text: Get a Quote
       open_in_new_tab: false
   - _bookshop_name: numbers

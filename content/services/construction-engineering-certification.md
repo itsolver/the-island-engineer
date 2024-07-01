@@ -1,5 +1,5 @@
 ---
-title: SMBI Foundation Design
+title: Construction Engineering Certification
 menu:
   main:
     parent: Services
@@ -12,15 +12,15 @@ seo:
 service_type: Engineering
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: SMBI Foundation Design
+    heading: Construction Engineering Certification
     body: >-
-      Island Consulting is at the forefront of foundation design and site classification, providing the foundation for successful building projects across Australia. With our expertise and a NATA accredited lab, we deliver precise foundation planning for any construction. Click the "Get a Quote" button to ensure your project starts on solid ground with Island Consulting.
+      At Island Consulting, we provide comprehensive construction engineering certification services, including Frame Inspections, Foundation Inspections, Retaining Wall Inspections, and Post Construction Inspections. Our expert team ensures that your project meets all necessary standards and complies with local regulations. We utilize advanced techniques to accurately assess and certify various aspects of your construction, helping you achieve compliance and optimize your building's safety and quality. Click the "Get a Quote" button to secure our professional certification services for your project.
     image:
       image_url: /uploads/energy-dashboard-4.jpg
-      image_alt: An example energy dashboard on a screen
+      image_alt: An example of a construction site inspection
     button:
       enabled: true
-      button_url: /get-a-quote?service=smbi_foundation_design
+      button_url: /get-a-quote?service=smbi_construction_certification
       button_text: Get a Quote
       open_in_new_tab: false
   - _bookshop_name: numbers

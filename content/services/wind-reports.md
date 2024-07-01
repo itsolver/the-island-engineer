@@ -1,5 +1,5 @@
 ---
-title: SMBI Foundation Design
+title: Wind Reports
 menu:
   main:
     parent: Services
@@ -12,15 +12,15 @@ seo:
 service_type: Engineering
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: SMBI Foundation Design
+    heading: Wind Reports - Wind Classification
     body: >-
-      Island Consulting is at the forefront of foundation design and site classification, providing the foundation for successful building projects across Australia. With our expertise and a NATA accredited lab, we deliver precise foundation planning for any construction. Click the "Get a Quote" button to ensure your project starts on solid ground with Island Consulting.
+      Wind classification is a crucial requirement for building approvals, determining design and performance requirements for structures. At Island Consulting, we provide comprehensive wind reports that ensure your project meets all necessary standards. Our expert team utilizes advanced techniques to accurately assess wind conditions, helping you achieve compliance and optimize your building's design. Click the "Get a Quote" button to secure a detailed wind classification report for your project.
     image:
       image_url: /uploads/energy-dashboard-4.jpg
-      image_alt: An example energy dashboard on a screen
+      image_alt: An example of a wind report diagram
     button:
       enabled: true
-      button_url: /get-a-quote?service=smbi_foundation_design
+      button_url: /get-a-quote?service=wind_reports
       button_text: Get a Quote
       open_in_new_tab: false
   - _bookshop_name: numbers
