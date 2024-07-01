@@ -7,7 +7,7 @@
       <span class="visually-hidden">Home</span>
       <a class="header__logo" href="{{ site.BaseURL }}">
         {{ if .Site.Data.site_settings.logo }}
-          <img src="{{ .Site.Data.site_settings.logo }}?auto=format&width=164&height=141" width="164" height="141" alt="{{ .Site.Data.site_settings.business_name }} logo">
+          <img class="header-logo" src="{{ .Site.Data.site_settings.logo }}?auto=format&width=164&height=141" width="164" height="141" alt="{{ .Site.Data.site_settings.business_name }} logo">
         {{ else }}
           {{ partialCached "svg-icons/logo.svg" . }}
         {{ end }}
