@@ -1,0 +1,9 @@
+<li class="card">
+  <div class="accent-line flow">
+    {{ with .Params.categories }}
+      <a class="card__category" href="{{ "/categories/" | relLangURL }}{{ index . 0 | urlize }}" aria-label="View all {{ index . 0 }} posts">{{ index . 0 }}</a>
+    {{ end }}
+    <h3 class="card__title h6"><a href="{{ .Permalink }}" class="card__link">{{ .Title }}</a></h3>
+    <p class="card__summary font-size-xs">{{ .Summary }}</p>
+  </div>
+</li>
