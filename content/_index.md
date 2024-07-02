@@ -69,6 +69,31 @@ content_blocks:
           Providing critical information for construction projects across the
           Southern Moreton Bay Islands.
     background_color: gray
+  - _bookshop_name: columns
+    columns:
+      - _bookshop_name: icon-card
+        image:
+          image_url: /uploads/bpeq-blue.svg
+          image_alt: Board of Professional Engineers Queensland logo
+        heading: ''
+        body: 
+        text_align: start
+      - _bookshop_name: icon-card
+        image:
+          image_url: /uploads/ags.svg
+          image_alt: Australian Geomechanics Society logo
+        heading: ''
+        body: 
+        text_align: start
+      - _bookshop_name: icon-card
+        image:
+          image_url: /uploads/ea-member.svg
+          image_alt: Engineers Australia member logo
+        heading: ''
+        body: 
+        text_align: start
+    background_color:
+    text_align: start
   - _bookshop_name: double-cta
     cta_left:
       heading: SMBI Soil Testing

@@ -22,6 +22,9 @@ content_blocks:
       image_alt: Trees with sunshine shining through branches
     button:
       enabled: true
+      button_url: /services/#all-services
+      button_text: View all services
+      open_in_new_tab: false
   - _bookshop_name: columns
     columns:
       - _bookshop_name: icon-card
