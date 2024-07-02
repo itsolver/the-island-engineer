@@ -1,0 +1,12 @@
+// git pull at startup in vscode
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "git pull",
+            "type": "shell",
+            "command": "git pull",
+            "problemMatcher": []
+        }
+    ]
+}
