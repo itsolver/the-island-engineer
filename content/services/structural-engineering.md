@@ -1,5 +1,5 @@
 ---
-title: SMBI Soil Testing
+title: Structural Engineering
 menu:
   main:
     parent: Services
@@ -12,16 +12,16 @@ seo:
 service_type: Engineering
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: SMBI Soil testing
+    heading: Structural Engineering
     body: >-
-      Island Consulting is at the forefront of soil testing and site classification, providing the foundation for successful building projects across Australia. With our expertise and a NATA accredited lab, we deliver precise foundation planning for any construction. Click the "Pay Now" button to ensure your project starts on solid ground with Island Consulting.
+      Island Consulting specializes in comprehensive structural engineering solutions, offering expert services in Foundation, Sub Floor Columns, Floor, Wall, Roof, Wall Bracing and Tie-Down & Bracing Residential Structural Design, as well as Structural Steel Design. Our experienced team delivers tailored designs to meet the unique challenges of various construction projects. From ensuring stable foundations to creating robust structural frameworks, we guarantee your project's integrity and safety. Click the "Get a Quote" button to start your project with Island Consulting's precision engineering.
     image:
       image_url: /uploads/energy-dashboard-4.jpg
       image_alt: An example energy dashboard on a screen
     button:
       enabled: true
-      button_url: https://buy.stripe.com/test_eVacPS2EF5vD29W288
-      button_text: Buy soil test
+      button_url: /get-a-quote?service=smbi_structural_design
+      button_text: Get a Quote
       open_in_new_tab: false
   - _bookshop_name: numbers
     heading: Our Numbers
@@ -48,7 +48,7 @@ content_blocks:
         laboratory, we conduct thorough testing and analysis of soil samples.
         STA guarantees precise and reliable results, providing you with the
         critical information needed to make informed decisions throughout your
-        project’s lifecycle.
+        project's lifecycle.
       button:
         enabled: true
         button_url: https://buy.stripe.com/test_eVacPS2EF5vD29W288

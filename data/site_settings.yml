@@ -1,8 +1,8 @@
-logo: /uploads/island-consulting-featured-image.png
-footer_logo: /uploads/island-consulting-featured-image.png
+logo: /uploads/icg-navy.svg
+footer_logo: /uploads/icg-navy.svg
 business_name: Island Consulting Group
-phone: "0409 586 794"
-fax: 
+phone: 0409 586 794
+fax:
 email: theislandengineer@gmail.com
 address:
   city: Macleay Island
@@ -11,5 +11,9 @@ address:
   zip: 4184
   country: Australia
 google_maps_url: https://maps.app.goo.gl/EJE2dLs1AXNNPzCS8
-google_maps_iframe: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d226359.69180123552!2d153.26771693902344!3d-27.566539056743608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b916fce876bd459%3A0xcb993213cceb210d!2sThe%20Island%20Engineer!5e0!3m2!1sen!2sau!4v1710914633780!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+google_maps_iframe: >-
+  <iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d226359.69180123552!2d153.26771693902344!3d-27.566539056743608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b916fce876bd459%3A0xcb993213cceb210d!2sThe%20Island%20Engineer!5e0!3m2!1sen!2sau!4v1710914633780!5m2!1sen!2sau"
+  width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"></iframe>
 social_media:

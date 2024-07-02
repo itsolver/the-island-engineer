@@ -5,7 +5,7 @@
         <div class="footer__logo-wrap">
           <a class="footer__logo" href="/">
             {{ if .Site.Data.site_settings.footer_logo }}
-              <img src="{{ .Site.Data.site_settings.footer_logo }}" width="200" height="150" alt="{{ .Site.Data.site_settings.business_name }} logo">
+              <img class="footer-logo" src="{{ .Site.Data.site_settings.footer_logo }}" width="200" height="150" alt="{{ .Site.Data.site_settings.business_name }} logo">
             {{ else }}
               {{ partialCached "svg-icons/logo.svg" . }}
             {{ end }}

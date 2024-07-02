@@ -20,11 +20,31 @@ content_blocks:
     image:
       image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
-    button:
-      enabled: true
-      button_url: /get-a-quote/
-      button_text: Get a quote
-      open_in_new_tab: false
+  - _bookshop_name: columns
+    columns:
+      - _bookshop_name: icon-card
+        image:
+          image_url: /uploads/tie-navy.svg
+          image_alt: The Island Engineer logo
+        body: >-
+          Serving the Southern Moreton Bay Islands, including Russell Island, Macleay Island, Lamb Island, Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
+        text_align: start
+      - _bookshop_name: icon-card
+        image:
+          image_url: /uploads/ist-navy.svg
+          image_alt: Island Soil Testing logo
+        body: >-
+          Providing soil testing services across the Southern Moreton Bay Islands, including Russell Island, Macleay Island, Lamb Island, Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
+        text_align: start
+      - _bookshop_name: icon-card
+        image:
+          image_url: /uploads/rsed-navy.svg
+          image_alt: Community icon
+        body: >-
+          Offering structural engineering design services for projects in Redland City Council, Logan City Council, and Brisbane City Council regions.
+        text_align: start
+    background_color:
+    text_align: start
   - _bookshop_name: services-feed
     heading: All services
     body: >-
@@ -35,19 +55,6 @@ content_blocks:
     background_color: gray
   - _bookshop_name: double-cta
     cta_left:
-      heading: SMBI Foundation Design
-      body: >-
-        As leaders in custom foundation design, we tailor every project to meet
-        the unique demands of both residential and commercial sites. Our team
-        employs a diverse array of materials and innovative techniques, ranging
-        from screw piles to traditional foundations, ensuring that every
-        solution is optimized for site-specific requirements.
-      button:
-        enabled: true
-        button_url: https://fine-ant.cloudvent.net/services/#ZgotmplZ
-        button_text: Buy SMBI Foundation Design
-        open_in_new_tab: false
-    cta_right:
       heading: SMBI Soil Testing
       body: >-
         Soil testing and site classification services are essential for the
@@ -58,7 +65,17 @@ content_blocks:
         project’s lifecycle.
       button:
         enabled: true
-        button_url: /buy-soil-test/
+        button_url: https://buy.stripe.com/test_eVacPS2EF5vD29W288
         button_text: Buy Soil Test
         open_in_new_tab: false
+    cta_right:
+      heading: Get a Quote
+      body: >-
+        Get a comprehensive quote for our wide range of engineering services. From SMBI Foundation Design to Residential Structural Engineering across Moreton Bay Islands and Redland City. We offer specialized reports, risk assessments, and Construction Management Plans tailored to local council requirements. Contact us for expert solutions customized to your project's unique needs.
+      button:
+        enabled: true
+        button_url: /get-a-quote
+        button_text: Get a Quote
+        open_in_new_tab: false
 ---
+

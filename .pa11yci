@@ -8,6 +8,6 @@
     "http://localhost:1313/",
     "http://localhost:1313/services/",
     "http://localhost:1313/contact/",
-    "http://localhost:1313/request-quote/"
+    "http://localhost:1313/get-a-quote/"
     ]
 }
