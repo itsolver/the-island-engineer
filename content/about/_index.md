@@ -28,24 +28,24 @@ content_blocks:
     columns:
       - _bookshop_name: icon-card
         image:
-          image_url: /uploads/technology.svg
-          image_alt: Technology icon
+          image_url: /uploads/tie-navy.svg
+          image_alt: The Island Engineer logo
         heading: The Island Engineer
         body: >-
           Serving the Southern Moreton Bay Islands, including Russell Island, Macleay Island, Lamb Island, Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
         text_align: start
       - _bookshop_name: icon-card
         image:
-          image_url: /uploads/sustainability.svg
-          image_alt: Sustainability icon
+          image_url: /uploads/ist-navy.svg
+          image_alt: Island Soil Testing logo
         heading: Island Soil Testing
         body: >-
           Providing soil testing services across the Southern Moreton Bay Islands, including Russell Island, Macleay Island, Lamb Island, Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
         text_align: start
       - _bookshop_name: icon-card
         image:
-          image_url: /uploads/community.svg
-          image_alt: Community icon
+          image_url: /uploads/rsed-navy.svg
+          image_alt: Redland Structural Engineering Design logo
         heading: Redland Structural Engineering Design
         body: >-
           Offering structural engineering design services for projects in Redland City Council, Logan City Council, and Brisbane City Council regions.

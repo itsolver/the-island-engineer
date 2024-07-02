@@ -43,15 +43,9 @@
 
     .header-logo,
     .footer-logo,
-    .icon-card__image.margin-inline-auto {
+    .icon-card__image.margin-inline-auto, 
+    .sitemap-content {
         filter: none;
-    }
-
-    @media (prefers-color-scheme: dark) {
-        .header-logo,   
-        .footer-logo,
-        .icon-card__image.margin-inline-auto {
-            filter: brightness(0) invert(1);
-        }
+        filter: brightness(0) invert(1);
     }
 }
