@@ -20,28 +20,39 @@ content_blocks:
     image:
       image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
+    button:
+      enabled: true
   - _bookshop_name: columns
     columns:
       - _bookshop_name: icon-card
         image:
           image_url: /uploads/tie-navy.svg
           image_alt: The Island Engineer logo
+        heading: ''
         body: >-
-          Serving the Southern Moreton Bay Islands, including Russell Island, Macleay Island, Lamb Island, Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
+          Serving the Southern Moreton Bay Islands, including Russell Island,
+          Macleay Island, Lamb Island, Karragarra Island, North Stradbroke
+          Island, and Coochiemudlo Island.
         text_align: start
       - _bookshop_name: icon-card
         image:
           image_url: /uploads/ist-navy.svg
           image_alt: Island Soil Testing logo
+        heading: ''
         body: >-
-          Providing soil testing services across the Southern Moreton Bay Islands, including Russell Island, Macleay Island, Lamb Island, Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
+          Providing soil testing services across the Southern Moreton Bay
+          Islands, including Russell Island, Macleay Island, Lamb Island,
+          Karragarra Island, North Stradbroke Island, and Coochiemudlo Island.
         text_align: start
       - _bookshop_name: icon-card
         image:
           image_url: /uploads/rsed-navy.svg
-          image_alt: Community icon
+          image_alt: Redland Structural Engineering Design logo
+        heading: ''
         body: >-
-          Offering structural engineering design services for projects in Redland City Council, Logan City Council, and Brisbane City Council regions.
+          Offering structural engineering design services for projects in
+          Redland City Council, Logan City Council, and Brisbane City Council
+          regions.
         text_align: start
     background_color:
     text_align: start
@@ -71,11 +82,15 @@ content_blocks:
     cta_right:
       heading: Get a Quote
       body: >-
-        Get a comprehensive quote for our wide range of engineering services. From SMBI Foundation Design to Residential Structural Engineering across Moreton Bay Islands and Redland City. We offer specialized reports, risk assessments, and Construction Management Plans tailored to local council requirements. Contact us for expert solutions customized to your project's unique needs.
+        Get a comprehensive quote for our wide range of engineering services.
+        From SMBI Foundation Design to Residential Structural Engineering across
+        Moreton Bay Islands and Redland City. We offer specialized reports, risk
+        assessments, and Construction Management Plans tailored to local council
+        requirements. Contact us for expert solutions customized to your
+        project's unique needs.
       button:
         enabled: true
         button_url: /get-a-quote
         button_text: Get a Quote
         open_in_new_tab: false
 ---
-
