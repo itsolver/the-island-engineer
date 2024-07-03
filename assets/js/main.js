@@ -63,13 +63,21 @@ const scrollDetect = (collapse, expand) => {
 };
 
 function collapseNav() {
-  siteHeader.classList.remove("expand");
-  siteHeader.classList.add("collapse");
+  if (window.innerWidth >= 768) {
+    siteHeader.classList.remove("expand");
+    siteHeader.classList.add("collapse");
+  } else {
+    siteHeader.style.transform = "translateY(-100%)";
+  }
 }
 
 function expandNav() {
-  siteHeader.classList.remove("collapse");
-  siteHeader.classList.add("expand");
+  if (window.innerWidth >= 768) {
+    siteHeader.classList.remove("collapse");
+    siteHeader.classList.add("expand");
+  } else {
+    siteHeader.style.transform = "translateY(0)";
+  }
 }
 
 let ticking = false;
@@ -116,12 +124,12 @@ hasSubMenu.forEach((link) => {
   });
 });
 
-function filterPosts () {
+function filterPosts() {
   const filterBtn = document.querySelector('.btn--filter')
   const categoryList = document.querySelector('.category-list')
 
   if (!document.body.contains(categoryList)) return
-  
+
   filterBtn.addEventListener('click', event => {
     categoryList.classList.toggle('list-open')
   })
