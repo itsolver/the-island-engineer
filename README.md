@@ -26,7 +26,7 @@ Business template for Hugo. This template has been built for editing and buildin
 [Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [Cloudinary](https://cloudinary.com/)
 
 ### Hugo 
-Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. We choose to build with Hugo because of it’s amazing speed and great community. Try it out, you will be impressed.
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. We choose to build with Hugo because of it's amazing speed and great community. Try it out, you will be impressed.
 
 ### CloudCannon 
 The CMS marketers *and* developers love to use.
@@ -55,7 +55,29 @@ hugo server
 
 ```
 
-That’s it! 
+## Viewing the Website on Mobile and Other Devices
+
+To view the website locally on mobile devices or other machines on your network:
+
+1. Run the following command instead of the standard `hugo server`:
+
+   ```
+   hugo server --bind=0.0.0.0 --baseURL=http://[YOUR_LOCAL_IP]:1313
+   ```
+
+   Replace `[YOUR_LOCAL_IP]` with your actual local IP address (e.g., 192.168.1.100).
+
+2. This will make your local server accessible from your local network and ensure assets like CSS load correctly.
+
+3. On other devices connected to the same network, open a web browser and navigate to:
+   
+   `http://[YOUR_LOCAL_IP]:1313`
+
+This approach allows you to test responsiveness and functionality across various devices during development, while ensuring all assets load properly.
+
+Note: Remember to use your production URL in the `config.toml` or `config.yaml` file before deploying.
+
+That's it! 
 
 When Hugo is done building, you should see a success message like:
 

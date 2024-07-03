@@ -5,7 +5,7 @@ menu:
   main:
     weight: 1
 seo:
-  page_title: The Island Engineer
+  page_title: Home
   meta_description: >-
     Civil and Structural Engineering for Southern Moreton Bay Islands (Russell,
     Macleay, Lamb & Karragarra Islands)

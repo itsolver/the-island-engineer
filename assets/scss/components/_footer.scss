@@ -6,26 +6,32 @@
   color: $black;
   transition: $transition;
 
-  &:hover, 
+  &:hover,
   &:focus {
     color: $primary-color;
   }
 }
 
 .footer .btn--primary {
-  color: $white !important
+  color: $white !important;
+  margin-bottom: $ic-200; // Ensures spacing between the button and the next element
 }
 
 .footer__nav-item {
   list-style-type: none;
-  margin-top:0;
+  margin-top: 0;
+  line-height: 2; // Increased line height for better tap targets
+
+  @include breakpoint(md) {
+    line-height: 1.5; // Return to normal line height on desktop
+  }
 }
 
 .footer__copyright {
   font-size: $ic--100;
   padding: $ic-100 0;
 
-  @include breakpoint(md)  {
+  @include breakpoint(md) {
     .footer__credits {
       margin-left: auto;
     }
@@ -42,7 +48,7 @@
   list-style-type: none;
   margin: $ic-100;
 
-  @include breakpoint(md)  {
+  @include breakpoint(md) {
     margin: 0 0 0 $ic--100;
   }
 }
@@ -50,4 +56,30 @@
 .footer .contact-form input {
   margin-bottom: 0;
   block-size: $ic-600;
+}
+
+.footer__address-item,
+.footer__phone-item {
+  line-height: 2; // Double line height for better tap targets on mobile
+
+  @include breakpoint(md) {
+    line-height: 1.5; // Return to normal line height on desktop
+  }
+}
+
+// New styles for uniform spacing
+
+// Add spacing for headings in the footer
+.footer h2 {
+  margin-bottom: $ic-200; // Adjust as needed for desired spacing
+}
+
+// Add spacing for paragraphs in the footer
+.footer p {
+  margin-bottom: 0; // Adjust as needed for desired spacing
+}
+
+// Specific adjustment for the "Connect With Us" section
+.footer .footer__social {
+  margin-top: $ic-300; // Ensures spacing between the review paragraph and social icons
 }

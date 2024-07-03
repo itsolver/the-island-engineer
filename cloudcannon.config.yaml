@@ -196,7 +196,7 @@ _editables:
     underline: true
     undo: true
 data_config: {}
-timezone: Etc/UTC
+timezone: Australia/Brisbane
 _snippets:
   responsive_image:
     template: hugo_shortcode_named_args
