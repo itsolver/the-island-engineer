@@ -3,9 +3,9 @@
     "tasks": [
         {
             "type": "shell",
-            "command": "git pull",
+            "command": "git pull && hugo server --bind 0.0.0.0 --baseURL http://192.168.42.21",
             "problemMatcher": [],
-            "label": "git: pull",
+            "label": "git: pull and run hugo server",
             "runOptions": {
                 "runOn": "folderOpen"
             }
