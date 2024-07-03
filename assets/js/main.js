@@ -49,16 +49,25 @@ function toggleMobileDropdowns() {
 toggleMobileDropdowns();
 
 let scrollState = 0;
+let isOverscrolling = false;
 
 const scrollTop = () => window.scrollY;
 
 const scrollDetect = (collapse, expand) => {
   const currentScroll = scrollTop();
-  if (currentScroll > scrollState) {
+
+  if (currentScroll <= 0) {
+    isOverscrolling = true;
+    expand();
+  } else if (isOverscrolling) {
+    isOverscrolling = false;
+    expand();
+  } else if (currentScroll > scrollState) {
     collapse();
   } else {
     expand();
   }
+
   scrollState = scrollTop();
 };
 
