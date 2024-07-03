@@ -18,7 +18,7 @@ Business template for Hugo. This template has been built for editing and buildin
 * Multiple call to action blocks
 * Multiple testimonial blocks - single and slider
 * Contact forms
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
+* Optimised for editing in [CloudCannon](https://cloudcannon.com/)  
 * SEO ready with preconfigured meta tags and schema data templates
 
 ## Technologies You Should Familiarize Yourself With
