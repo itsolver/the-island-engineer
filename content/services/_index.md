@@ -79,8 +79,8 @@ content_blocks:
         project’s lifecycle.
       button:
         enabled: true
-        button_url: https://buy.stripe.com/test_eVacPS2EF5vD29W288
-        button_text: Buy Soil Test
+        button_url: /get-a-quote?service=smbi_soil_testing
+        button_text: Get Soil Test
         open_in_new_tab: false
     cta_right:
       heading: Get a Quote
