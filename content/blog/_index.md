@@ -5,7 +5,7 @@ menu:
   main:
     weight: 4
 seo:
-  page_title: Blog - Insights at Island Consulting
+  page_title: Publications by Island Consulting
   meta_description: >-
     At Island Consulting Group, we believe in empowering our community with
     knowledge. Stay informed about Island Residential Design, Island Soil
